@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"objQuestionBoard","order":17,"path":"objects/objQuestionBoard/objQuestionBoard.yy",},
     {"name":"sprTheatreSpot","order":5,"path":"sprites/sprTheatreSpot/sprTheatreSpot.yy",},
+    {"name":"sprEmpty","order":19,"path":"sprites/sprEmpty/sprEmpty.yy",},
     {"name":"sprCurtainClose","order":2,"path":"sprites/sprCurtainClose/sprCurtainClose.yy",},
     {"name":"sprCurtainOpen","order":1,"path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},
     {"name":"sprPlayBtn","order":7,"path":"sprites/sprPlayBtn/sprPlayBtn.yy",},
