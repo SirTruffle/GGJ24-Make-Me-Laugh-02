@@ -1,5 +1,5 @@
-openCurtains();
-//closeCurtain();
+
+openCurtains(openSpeed);
 
 
 
