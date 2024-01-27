@@ -29,6 +29,7 @@
     {"name":"sprAnswerHitbox","order":24,"path":"sprites/sprAnswerHitbox/sprAnswerHitbox.yy",},
     {"name":"sprExitBtn","order":11,"path":"sprites/sprExitBtn/sprExitBtn.yy",},
     {"name":"objAnswer","order":27,"path":"objects/objAnswer/objAnswer.yy",},
+    {"name":"RunPuzzles","order":28,"path":"scripts/RunPuzzles/RunPuzzles.yy",},
     {"name":"objExitBtn","order":19,"path":"objects/objExitBtn/objExitBtn.yy",},
     {"name":"sprKangaroo","order":1,"path":"sprites/sprKangaroo/sprKangaroo.yy",},
     {"name":"sprUrulu","order":3,"path":"sprites/sprUrulu/sprUrulu.yy",},

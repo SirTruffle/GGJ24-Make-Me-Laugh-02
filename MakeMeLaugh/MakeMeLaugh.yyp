@@ -47,6 +47,7 @@
     {"id":{"name":"sprAnswerHitbox","path":"sprites/sprAnswerHitbox/sprAnswerHitbox.yy",},},
     {"id":{"name":"sprExitBtn","path":"sprites/sprExitBtn/sprExitBtn.yy",},},
     {"id":{"name":"objAnswer","path":"objects/objAnswer/objAnswer.yy",},},
+    {"id":{"name":"RunPuzzles","path":"scripts/RunPuzzles/RunPuzzles.yy",},},
     {"id":{"name":"sprBoomerang","path":"sprites/sprBoomerang/sprBoomerang.yy",},},
     {"id":{"name":"objExitBtn","path":"objects/objExitBtn/objExitBtn.yy",},},
     {"id":{"name":"sprKangaroo","path":"sprites/sprKangaroo/sprKangaroo.yy",},},
