@@ -36,7 +36,6 @@
   "resources": [
     {"id":{"name":"objQuestionBoard","path":"objects/objQuestionBoard/objQuestionBoard.yy",},},
     {"id":{"name":"sprTheatreSpot","path":"sprites/sprTheatreSpot/sprTheatreSpot.yy",},},
-    {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
     {"id":{"name":"sprCurtainClose","path":"sprites/sprCurtainClose/sprCurtainClose.yy",},},
     {"id":{"name":"sprCurtainOpen","path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},},
     {"id":{"name":"sprExitBtn","path":"sprites/sprExitBtn/sprExitBtn.yy",},},
