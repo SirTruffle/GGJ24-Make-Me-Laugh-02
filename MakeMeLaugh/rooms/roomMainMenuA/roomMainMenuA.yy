@@ -1,14 +1,14 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "roomMainMenu",
-  "creationCodeFile": "rooms/roomMainMenu/RoomCreationCode.gml",
+  "name": "roomMainMenuA",
+  "creationCodeFile": "rooms/roomMainMenuA/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_2E12776B","path":"rooms/roomMainMenu/roomMainMenu.yy",},
-    {"name":"inst_16F0DEB0","path":"rooms/roomMainMenu/roomMainMenu.yy",},
+    {"name":"inst_2E12776B","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},
+    {"name":"inst_16F0DEB0","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},
   ],
   "isDnd": false,
   "layers": [

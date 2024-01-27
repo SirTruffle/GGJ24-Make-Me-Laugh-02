@@ -44,7 +44,7 @@
     {"name":"objClownMovements","order":20,"path":"objects/objClownMovements/objClownMovements.yy",},
     {"name":"objPlayBtn","order":18,"path":"objects/objPlayBtn/objPlayBtn.yy",},
     {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
-    {"name":"roomTheatre","order":1,"path":"rooms/roomTheatre/roomTheatre.yy",},
+    {"name":"roomTheatreA","order":1,"path":"rooms/roomTheatreA/roomTheatreA.yy",},
     {"name":"arrayChecker","order":1,"path":"scripts/arrayChecker/arrayChecker.yy",},
     {"name":"objCurtains","order":16,"path":"objects/objCurtains/objCurtains.yy",},
   ],
