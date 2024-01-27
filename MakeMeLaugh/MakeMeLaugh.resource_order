@@ -15,6 +15,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"puzzles","order":20,"path":"folders/puzzles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"objQuestionBoard","order":17,"path":"objects/objQuestionBoard/objQuestionBoard.yy",},
@@ -27,5 +28,6 @@
     {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
     {"name":"roomTheatre","order":1,"path":"rooms/roomTheatre/roomTheatre.yy",},
     {"name":"objCurtains","order":16,"path":"objects/objCurtains/objCurtains.yy",},
+    {"name":"objClown","order":7,"path":"objects/objClown/objClown.yy",},
   ],
 }

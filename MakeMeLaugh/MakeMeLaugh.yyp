@@ -26,6 +26,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"puzzleOne","folderPath":"folders/puzzles/puzzleOne.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"puzzles","folderPath":"folders/puzzles.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -46,6 +48,7 @@
     {"id":{"name":"roomTheatre","path":"rooms/roomTheatre/roomTheatre.yy",},},
     {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
     {"id":{"name":"objCurtains","path":"objects/objCurtains/objCurtains.yy",},},
+    {"id":{"name":"objClown","path":"objects/objClown/objClown.yy",},},
     {"id":{"name":"roomMainMenu","path":"rooms/roomMainMenu/roomMainMenu.yy",},},
   ],
   "RoomOrderNodes": [
