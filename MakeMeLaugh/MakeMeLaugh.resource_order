@@ -28,6 +28,7 @@
     {"name":"objPlayBtn","order":18,"path":"objects/objPlayBtn/objPlayBtn.yy",},
     {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
     {"name":"roomTheatre","order":1,"path":"rooms/roomTheatre/roomTheatre.yy",},
+    {"name":"sprKangaroo","order":2,"path":"sprites/sprKangaroo/sprKangaroo.yy",},
     {"name":"objCurtains","order":16,"path":"objects/objCurtains/objCurtains.yy",},
     {"name":"objClown","order":7,"path":"objects/objClown/objClown.yy",},
   ],

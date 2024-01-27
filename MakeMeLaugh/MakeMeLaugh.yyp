@@ -49,6 +49,7 @@
     {"id":{"name":"sprTheaterBackground","path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},},
     {"id":{"name":"roomTheatre","path":"rooms/roomTheatre/roomTheatre.yy",},},
     {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
+    {"id":{"name":"sprKangaroo","path":"sprites/sprKangaroo/sprKangaroo.yy",},},
     {"id":{"name":"objCurtains","path":"objects/objCurtains/objCurtains.yy",},},
     {"id":{"name":"objClown","path":"objects/objClown/objClown.yy",},},
     {"id":{"name":"roomMainMenu","path":"rooms/roomMainMenu/roomMainMenu.yy",},},
