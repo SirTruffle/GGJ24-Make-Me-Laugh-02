@@ -1,0 +1,5 @@
+openCurtains();
+//closeCurtain();
+
+
+
