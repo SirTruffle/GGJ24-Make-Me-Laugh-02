@@ -44,8 +44,33 @@ function openCurtains(){
 		if(image_index >= image_number-1) image_speed = 0;
 	}
 }
-	
+
 function clownFront(){
-		
-		draw_sprite(sprClown,0,0,0)
+	image_speed = 0;
+	depth = 99;
+	draw_sprite_ext(
+					sprite_index, 
+					image_index, 
+					x, 
+					y, 
+					image_xscale, 
+					image_yscale, 
+					image_alpha, 
+					image_blend, 
+					image_alpha);	
+}
+
+function clownBack(){
+		image_speed = 0;
+		depth = 99;
+			draw_sprite_ext(
+					sprite_index, 
+					 1, 
+					x, 
+					y, 
+					image_xscale, 
+					image_yscale, 
+					image_alpha, 
+					image_blend, 
+					image_alpha);
 }
