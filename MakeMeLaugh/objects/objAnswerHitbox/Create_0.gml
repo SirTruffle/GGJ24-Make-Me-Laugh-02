@@ -1,0 +1,1 @@
+global.answers = global.answer_list.empty;
