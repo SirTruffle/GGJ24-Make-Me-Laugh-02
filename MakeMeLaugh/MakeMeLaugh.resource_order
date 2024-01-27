@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
+    {"name":"puzzles","order":20,"path":"folders/puzzles.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
@@ -15,9 +16,9 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"puzzles","order":20,"path":"folders/puzzles.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sprBoomerang","order":1,"path":"sprites/sprBoomerang/sprBoomerang.yy",},
     {"name":"objQuestionBoard","order":17,"path":"objects/objQuestionBoard/objQuestionBoard.yy",},
     {"name":"sprTheatreSpot","order":5,"path":"sprites/sprTheatreSpot/sprTheatreSpot.yy",},
     {"name":"sprCurtainClose","order":2,"path":"sprites/sprCurtainClose/sprCurtainClose.yy",},
